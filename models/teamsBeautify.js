@@ -22,6 +22,7 @@ module.exports = {
                 }
             },
             "name": "France",
+            "viName": "Pháp",
             "code": null,
             "shortName": null,
             "squadMarketValue": null,
@@ -40,6 +41,7 @@ module.exports = {
                 }
             },
             "name": "Romania",
+            "viName": "Romania",
             "code": null,
             "shortName": null,
             "squadMarketValue": null,
@@ -58,6 +60,7 @@ module.exports = {
                 }
             },
             "name": "Albania",
+            "viName": "Albania",
             "code": null,
             "shortName": "Albania",
             "squadMarketValue": null,
@@ -76,6 +79,7 @@ module.exports = {
                 }
             },
             "name": "Switzerland",
+            "viName": "Thụy Sĩ",
             "code": null,
             "shortName": null,
             "squadMarketValue": null,
@@ -94,6 +98,7 @@ module.exports = {
                 }
             },
             "name": "Wales",
+            "viName": "Xứ Wales",
             "code": null,
             "shortName": null,
             "squadMarketValue": null,
@@ -112,6 +117,7 @@ module.exports = {
                 }
             },
             "name": "Slovakia",
+            "viName": "Slovakia",
             "code": null,
             "shortName": null,
             "squadMarketValue": null,
@@ -130,6 +136,7 @@ module.exports = {
                 }
             },
             "name": "England",
+            "viName": "Anh",
             "code": null,
             "shortName": null,
             "squadMarketValue": null,
@@ -148,6 +155,7 @@ module.exports = {
                 }
             },
             "name": "Russia",
+            "viName": "Nga",
             "code": null,
             "shortName": null,
             "squadMarketValue": null,
@@ -166,6 +174,7 @@ module.exports = {
                 }
             },
             "name": "Turkey",
+            "viName": "Thổ Nhĩ Kỳ",
             "code": null,
             "shortName": null,
             "squadMarketValue": null,
@@ -184,6 +193,7 @@ module.exports = {
                 }
             },
             "name": "Croatia",
+            "viName": "Croatia",
             "code": null,
             "shortName": null,
             "squadMarketValue": null,
@@ -202,6 +212,7 @@ module.exports = {
                 }
             },
             "name": "Poland",
+            "viName": "Ba Lan",
             "code": null,
             "shortName": null,
             "squadMarketValue": null,
@@ -220,6 +231,7 @@ module.exports = {
                 }
             },
             "name": "Northern Ireland",
+            "viName": "Bắc Ireland",
             "code": null,
             "shortName": null,
             "squadMarketValue": null,
@@ -238,6 +250,7 @@ module.exports = {
                 }
             },
             "name": "Germany",
+            "viName": "Đức",
             "code": null,
             "shortName": null,
             "squadMarketValue": null,
@@ -256,6 +269,7 @@ module.exports = {
                 }
             },
             "name": "Ukraine",
+            "viName": "Ukraine",
             "code": null,
             "shortName": null,
             "squadMarketValue": null,
@@ -274,6 +288,7 @@ module.exports = {
                 }
             },
             "name": "Spain",
+            "viName": "Tây Ban Nha",
             "code": null,
             "shortName": null,
             "squadMarketValue": null,
@@ -292,6 +307,7 @@ module.exports = {
                 }
             },
             "name": "Czech Republic",
+            "viName": "Cộng Hòa Séc",
             "code": null,
             "shortName": null,
             "squadMarketValue": null,
@@ -310,6 +326,7 @@ module.exports = {
                 }
             },
             "name": "Republic of Ireland",
+            "viName": "Cộng Hòa Ireland",
             "code": null,
             "shortName": null,
             "squadMarketValue": null,
@@ -328,6 +345,7 @@ module.exports = {
                 }
             },
             "name": "Sweden",
+            "viName": "Thụy Điển",
             "code": null,
             "shortName": null,
             "squadMarketValue": null,
@@ -346,6 +364,7 @@ module.exports = {
                 }
             },
             "name": "Belgium",
+            "viName": "Bỉ",
             "code": null,
             "shortName": null,
             "squadMarketValue": null,
@@ -364,6 +383,7 @@ module.exports = {
                 }
             },
             "name": "Italy",
+            "viName": "Italy",
             "code": null,
             "shortName": null,
             "squadMarketValue": null,
@@ -382,6 +402,7 @@ module.exports = {
                 }
             },
             "name": "Austria",
+            "viName": "Áo",
             "code": null,
             "shortName": null,
             "squadMarketValue": null,
@@ -400,6 +421,7 @@ module.exports = {
                 }
             },
             "name": "Hungary",
+            "viName": "Hungary",
             "code": null,
             "shortName": null,
             "squadMarketValue": null,
@@ -418,6 +440,7 @@ module.exports = {
                 }
             },
             "name": "Portugal",
+            "viName": "Bồ Đào Nha",
             "code": null,
             "shortName": null,
             "squadMarketValue": null,
@@ -436,6 +459,7 @@ module.exports = {
                 }
             },
             "name": "Iceland",
+            "viName": "Iceland",
             "code": null,
             "shortName": null,
             "squadMarketValue": null,

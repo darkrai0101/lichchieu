@@ -36,7 +36,7 @@
         "logo": "http://static.lichchieu.com/images/portal/logo-header.png",
         "contactPoint" : [
         { "@type" : "ContactPoint",
-        "telephone" : "+84 190000",
+        "telephone" : "+84 978943458",
         "contactType" : "customer service"
         } ]
         }
@@ -107,26 +107,24 @@
     		<div class="col-xs-12">
     			<h3>LỊCH THI ĐẤU EURO 2016</h3>
                 <div class="main-content">
-                    <ul>
-                        <li class="list-title">
-                            <ul>
-                                <li><a href="#">Thời Gian</a></li>
-                                <li><a href="#">Chủ Nhà</a></li>
-                                <li><a href="#">Tỷ Số</a></li>
-                                <li><a href="#">Đội Khách</a></li>
-                            </ul>
-                        </li>                        
+                    <table>
+                        <tr class="list-title">
+                            <th><a href="#">Thời Gian</a></th>
+                            <th><a href="#">Chủ Nhà</a></th>
+                            <th><a href="#">Tỷ Số</a></th>
+                            <th><a href="#">Đội Khách</a></th>
+                            <th><a href="#">Kênh Trực Tiếp</a></th>
+                        </tr>                        
                         <% data.fixtures.forEach(function(match){ %> 
-                        <li class="list-el">
-                            <ul>
-                                <li><i><%= match['date'] %></i></li>
-                                <li><a href="#"><%= match['homeTeamName'] %></a></li>
-                                <li><a href="#"><%= match['goalsHomeTeam'] ? match['goalsHomeTeam'] : '-' %> : <%= match['goalsAwayTeam'] ? match['goalsAwayTeam'] : '-'%></a></li>
-                                <li><a href="#"><%= match['awayTeamName'] %></a></li>
-                            </ul>
-                        </li>
+                        <tr class="list-el">
+                            <td><i><%= match['dateStr'] %></i></td>
+                            <td><a href="#"><%= match['homeTeamName'] %></a></td>
+                            <td><a href="#"><%= match['goalsHomeTeam'] ? match['goalsHomeTeam'] : '-' %> : <%= match['goalsAwayTeam'] ? match['goalsAwayTeam'] : '-'%></a></td>
+                            <td><a href="#"><%= match['awayTeamName'] %></a></td>
+                            <td><a href="#"><%= match['liveChanel'] %></a></td>
+                        </tr>
                         <% }); %> 
-                     </ul>                 
+                     </table>                 
                  </div>
     		</div>			
     	</div>

@@ -43,11 +43,68 @@ a {
 }
 
 .main-content{
-
+  overflow-x:auto;
 }
 
-.list-title > ul > li, .list-el > ul > li{
-  display: inline-block;
-  margin: 14px 4px;
+.main-content table{
+  width: 90%;
+  margin: auto;
+}
+.main-content table tr{
+  padding: 3px;
+}
+.main-content table tr th{
+    padding: 3px;
+    text-align: center;
+    vertical-align: middle;
+}
+.main-content table tr td{
+    padding: 6px 3px;
+    vertical-align: middle;
+}
+
+.main-content table tr th a{
+    color: #fff;
+}
+
+.main-content table tr:nth-child(even){
+}
+
+.main-content table tr:nth-child(odd){
+    background: #F0F0F0;
+}
+
+.main-content table tr:nth-child(1){
+    background: #505050;
+    color: #fff;
+    height: 34px;
+    vertical-align: middle;
+    text-align: center;
+    font-size: 16px;
+    line-height: 34px;
+}
+
+.main-content table tr td:nth-child(1){
+    text-align: center;
+}
+
+.main-content table tr td:nth-child(2){
+    text-align: right;
+    padding-right: 10px;
+}
+
+.main-content table tr td:nth-child(3){
+    text-align: center;
+    padding:0px 10px; 
+    width: 60px;
+}
+
+.main-content table tr td:nth-child(4){
+    text-align: left;
+    padding-left: 10px;  
+}
+
+.main-content table tr td:nth-child(5){
+    text-align: center;
 }
 

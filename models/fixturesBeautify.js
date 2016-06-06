@@ -27,12 +27,13 @@ module.exports = {
             "date": "2016-06-10T19:00:00Z",
             "status": "TIMED",
             "matchday": 1,
-            "homeTeamName": "France",
+            "homeTeamName": "Pháp",
             "awayTeamName": "Romania",
             "result": {
                 "goalsHomeTeam": null,
                 "goalsAwayTeam": null
-            }
+            },
+            "liveChanel": " VTV3 & VTV3 HD"
         },
         {
             "_links": {
@@ -53,11 +54,12 @@ module.exports = {
             "status": "TIMED",
             "matchday": 1,
             "homeTeamName": "Albania",
-            "awayTeamName": "Switzerland",
+            "awayTeamName": "Thụy Sĩ",
             "result": {
                 "goalsHomeTeam": null,
                 "goalsAwayTeam": null
-            }
+            },
+            "liveChanel": "VTV6 & VTV6 HD"
         },
         {
             "_links": {
@@ -77,12 +79,13 @@ module.exports = {
             "date": "2016-06-11T16:00:00Z",
             "status": "TIMED",
             "matchday": 1,
-            "homeTeamName": "Wales",
+            "homeTeamName": "Xứ Wales",
             "awayTeamName": "Slovakia",
             "result": {
                 "goalsHomeTeam": null,
                 "goalsAwayTeam": null
-            }
+            },
+            "liveChanel": "VTV6 & VTV6 HD"
         },
         {
             "_links": {
@@ -102,12 +105,13 @@ module.exports = {
             "date": "2016-06-11T19:00:00Z",
             "status": "TIMED",
             "matchday": 1,
-            "homeTeamName": "England",
-            "awayTeamName": "Russia",
+            "homeTeamName": "Anh",
+            "awayTeamName": "Nga",
             "result": {
                 "goalsHomeTeam": null,
                 "goalsAwayTeam": null
-            }
+            },
+            "liveChanel": "VTV3 & VTV3 HD"
         },
         {
             "_links": {
@@ -127,12 +131,13 @@ module.exports = {
             "date": "2016-06-12T13:00:00Z",
             "status": "TIMED",
             "matchday": 1,
-            "homeTeamName": "Turkey",
+            "homeTeamName": "Thổ Nhĩ Kỳ",
             "awayTeamName": "Croatia",
             "result": {
                 "goalsHomeTeam": null,
                 "goalsAwayTeam": null
-            }
+            },
+            "liveChanel": "VTV6 & VTV6 HD"
         },
         {
             "_links": {
@@ -152,12 +157,13 @@ module.exports = {
             "date": "2016-06-12T16:00:00Z",
             "status": "TIMED",
             "matchday": 1,
-            "homeTeamName": "Poland",
-            "awayTeamName": "Northern Ireland",
+            "homeTeamName": "Ba Lan",
+            "awayTeamName": "Bắc Ireland",
             "result": {
                 "goalsHomeTeam": null,
                 "goalsAwayTeam": null
-            }
+            },
+            "liveChanel": "VTV6 & VTV6 HD"
         },
         {
             "_links": {
@@ -177,12 +183,13 @@ module.exports = {
             "date": "2016-06-12T19:00:00Z",
             "status": "TIMED",
             "matchday": 1,
-            "homeTeamName": "Germany",
+            "homeTeamName": "Đức",
             "awayTeamName": "Ukraine",
             "result": {
                 "goalsHomeTeam": null,
                 "goalsAwayTeam": null
-            }
+            },
+            "liveChanel": "VTV3 & VTV3 HD"
         },
         {
             "_links": {
@@ -202,12 +209,13 @@ module.exports = {
             "date": "2016-06-13T13:00:00Z",
             "status": "TIMED",
             "matchday": 1,
-            "homeTeamName": "Spain",
-            "awayTeamName": "Czech Republic",
+            "homeTeamName": "Tây Ban Nha",
+            "awayTeamName": "Cộng Hòa Séc",
             "result": {
                 "goalsHomeTeam": null,
                 "goalsAwayTeam": null
-            }
+            },
+            "liveChanel": "VTV6 & VTV6 HD"
         },
         {
             "_links": {
@@ -227,12 +235,13 @@ module.exports = {
             "date": "2016-06-13T16:00:00Z",
             "status": "TIMED",
             "matchday": 1,
-            "homeTeamName": "Republic of Ireland",
-            "awayTeamName": "Sweden",
+            "homeTeamName": "Cộng Hòa Ireland",
+            "awayTeamName": "Thụy Điển",
             "result": {
                 "goalsHomeTeam": null,
                 "goalsAwayTeam": null
-            }
+            },
+            "liveChanel": "VTV6 & VTV6 HD"
         },
         {
             "_links": {
@@ -252,12 +261,13 @@ module.exports = {
             "date": "2016-06-13T19:00:00Z",
             "status": "TIMED",
             "matchday": 1,
-            "homeTeamName": "Belgium",
+            "homeTeamName": "Bỉ",
             "awayTeamName": "Italy",
             "result": {
                 "goalsHomeTeam": null,
                 "goalsAwayTeam": null
-            }
+            },
+            "liveChanel": "VTV3 & VTV3 HD"
         },
         {
             "_links": {
@@ -277,12 +287,13 @@ module.exports = {
             "date": "2016-06-14T16:00:00Z",
             "status": "TIMED",
             "matchday": 1,
-            "homeTeamName": "Austria",
+            "homeTeamName": "Áo",
             "awayTeamName": "Hungary",
             "result": {
                 "goalsHomeTeam": null,
                 "goalsAwayTeam": null
-            }
+            },
+            "liveChanel": "VTV6 & VTV6 HD"
         },
         {
             "_links": {
@@ -302,12 +313,13 @@ module.exports = {
             "date": "2016-06-14T19:00:00Z",
             "status": "TIMED",
             "matchday": 1,
-            "homeTeamName": "Portugal",
+            "homeTeamName": "Bồ Đào Nha",
             "awayTeamName": "Iceland",
             "result": {
                 "goalsHomeTeam": null,
                 "goalsAwayTeam": null
-            }
+            },
+            "liveChanel": "VTV3 & VTV3 HD"
         },
         {
             "_links": {
@@ -327,12 +339,13 @@ module.exports = {
             "date": "2016-06-15T13:00:00Z",
             "status": "TIMED",
             "matchday": 2,
-            "homeTeamName": "Russia",
+            "homeTeamName": "Nga",
             "awayTeamName": "Slovakia",
             "result": {
                 "goalsHomeTeam": null,
                 "goalsAwayTeam": null
-            }
+            },
+            "liveChanel": "VTV6 & VTV6 HD"
         },
         {
             "_links": {
@@ -353,11 +366,12 @@ module.exports = {
             "status": "TIMED",
             "matchday": 2,
             "homeTeamName": "Romania",
-            "awayTeamName": "Switzerland",
+            "awayTeamName": "Thụy Sĩ",
             "result": {
                 "goalsHomeTeam": null,
                 "goalsAwayTeam": null
-            }
+            },
+            "liveChanel": "VTV6 & VTV6 HD"
         },
         {
             "_links": {
@@ -377,12 +391,13 @@ module.exports = {
             "date": "2016-06-15T19:00:00Z",
             "status": "TIMED",
             "matchday": 2,
-            "homeTeamName": "France",
+            "homeTeamName": "Pháp",
             "awayTeamName": "Albania",
             "result": {
                 "goalsHomeTeam": null,
                 "goalsAwayTeam": null
-            }
+            },
+            "liveChanel": "VTV3 & VTV3 HD"
         },
         {
             "_links": {
@@ -402,12 +417,13 @@ module.exports = {
             "date": "2016-06-16T13:00:00Z",
             "status": "TIMED",
             "matchday": 2,
-            "homeTeamName": "England",
-            "awayTeamName": "Wales",
+            "homeTeamName": "Anh",
+            "awayTeamName": "Xứ Wales",
             "result": {
                 "goalsHomeTeam": null,
                 "goalsAwayTeam": null
-            }
+            },
+            "liveChanel": "VTV6 & VTV6 HD"
         },
         {
             "_links": {
@@ -428,11 +444,12 @@ module.exports = {
             "status": "TIMED",
             "matchday": 2,
             "homeTeamName": "Ukraine",
-            "awayTeamName": "Northern Ireland",
+            "awayTeamName": "Bắc Ireland",
             "result": {
                 "goalsHomeTeam": null,
                 "goalsAwayTeam": null
-            }
+            },
+            "liveChanel": "VTV6 & VTV6 HD"
         },
         {
             "_links": {
@@ -452,12 +469,13 @@ module.exports = {
             "date": "2016-06-16T19:00:00Z",
             "status": "TIMED",
             "matchday": 2,
-            "homeTeamName": "Germany",
-            "awayTeamName": "Poland",
+            "homeTeamName": "Đức",
+            "awayTeamName": "Ba Lan",
             "result": {
                 "goalsHomeTeam": null,
                 "goalsAwayTeam": null
-            }
+            },
+            "liveChanel": "VTV3 & VTV3 HD"
         },
         {
             "_links": {
@@ -478,11 +496,12 @@ module.exports = {
             "status": "TIMED",
             "matchday": 2,
             "homeTeamName": "Italy",
-            "awayTeamName": "Sweden",
+            "awayTeamName": "Thụy Điển",
             "result": {
                 "goalsHomeTeam": null,
                 "goalsAwayTeam": null
-            }
+            },
+            "liveChanel": "VTV6 & VTV6 HD"
         },
         {
             "_links": {
@@ -502,12 +521,13 @@ module.exports = {
             "date": "2016-06-17T16:00:00Z",
             "status": "TIMED",
             "matchday": 2,
-            "homeTeamName": "Czech Republic",
+            "homeTeamName": "Cộng Hòa Séc",
             "awayTeamName": "Croatia",
             "result": {
                 "goalsHomeTeam": null,
                 "goalsAwayTeam": null
-            }
+            },
+            "liveChanel": "VTV6 & VTV6 HD"
         },
         {
             "_links": {
@@ -527,12 +547,13 @@ module.exports = {
             "date": "2016-06-17T19:00:00Z",
             "status": "TIMED",
             "matchday": 2,
-            "homeTeamName": "Spain",
-            "awayTeamName": "Turkey",
+            "homeTeamName": "Tây Ban Nha",
+            "awayTeamName": "Thổ Nhĩ Kỳ",
             "result": {
                 "goalsHomeTeam": null,
                 "goalsAwayTeam": null
-            }
+            },
+            "liveChanel": "VTV3 & VTV3 HD"
         },
         {
             "_links": {
@@ -552,12 +573,13 @@ module.exports = {
             "date": "2016-06-18T13:00:00Z",
             "status": "TIMED",
             "matchday": 2,
-            "homeTeamName": "Belgium",
-            "awayTeamName": "Republic of Ireland",
+            "homeTeamName": "Bỉ",
+            "awayTeamName": "Cộng Hòa Ireland",
             "result": {
                 "goalsHomeTeam": null,
                 "goalsAwayTeam": null
-            }
+            },
+            "liveChanel": "VTV6 & VTV6 HD"
         },
         {
             "_links": {
@@ -582,7 +604,8 @@ module.exports = {
             "result": {
                 "goalsHomeTeam": null,
                 "goalsAwayTeam": null
-            }
+            },
+            "liveChanel": "VTV6 & VTV6 HD"
         },
         {
             "_links": {
@@ -602,12 +625,13 @@ module.exports = {
             "date": "2016-06-18T19:00:00Z",
             "status": "TIMED",
             "matchday": 2,
-            "homeTeamName": "Portugal",
-            "awayTeamName": "Austria",
+            "homeTeamName": "Bồ Đào Nha",
+            "awayTeamName": "Áo",
             "result": {
                 "goalsHomeTeam": null,
                 "goalsAwayTeam": null
-            }
+            },
+            "liveChanel": "VTV3 & VTV3 HD"
         },
         {
             "_links": {
@@ -632,7 +656,8 @@ module.exports = {
             "result": {
                 "goalsHomeTeam": null,
                 "goalsAwayTeam": null
-            }
+            },
+            "liveChanel": "VTV6 & VTV6 HD"
         },
         {
             "_links": {
@@ -652,12 +677,13 @@ module.exports = {
             "date": "2016-06-19T19:00:00Z",
             "status": "TIMED",
             "matchday": 3,
-            "homeTeamName": "Switzerland",
-            "awayTeamName": "France",
+            "homeTeamName": "Thụy Sĩ",
+            "awayTeamName": "Pháp",
             "result": {
                 "goalsHomeTeam": null,
                 "goalsAwayTeam": null
-            }
+            },
+            "liveChanel": "VTV3 & VTV3 HD"
         },
         {
             "_links": {
@@ -678,11 +704,12 @@ module.exports = {
             "status": "TIMED",
             "matchday": 3,
             "homeTeamName": "Slovakia",
-            "awayTeamName": "England",
+            "awayTeamName": "Anh",
             "result": {
                 "goalsHomeTeam": null,
                 "goalsAwayTeam": null
-            }
+            },
+            "liveChanel": "VTV3 & VTV3 HD"
         },
         {
             "_links": {
@@ -702,12 +729,13 @@ module.exports = {
             "date": "2016-06-20T19:00:00Z",
             "status": "TIMED",
             "matchday": 3,
-            "homeTeamName": "Russia",
-            "awayTeamName": "Wales",
+            "homeTeamName": "Nga",
+            "awayTeamName": "Xứ Wales",
             "result": {
                 "goalsHomeTeam": null,
                 "goalsAwayTeam": null
-            }
+            },
+            "liveChanel": "VTV6 & VTV6 HD"
         },
         {
             "_links": {
@@ -728,11 +756,12 @@ module.exports = {
             "status": "TIMED",
             "matchday": 3,
             "homeTeamName": "Ukraine",
-            "awayTeamName": "Poland",
+            "awayTeamName": "Ba Lan",
             "result": {
                 "goalsHomeTeam": null,
                 "goalsAwayTeam": null
-            }
+            },
+            "liveChanel": "VTV3 & VTV3 HD"
         },
         {
             "_links": {
@@ -752,12 +781,13 @@ module.exports = {
             "date": "2016-06-21T16:00:00Z",
             "status": "TIMED",
             "matchday": 3,
-            "homeTeamName": "Northern Ireland",
-            "awayTeamName": "Germany",
+            "homeTeamName": "Bắc Ireland",
+            "awayTeamName": "Đức",
             "result": {
                 "goalsHomeTeam": null,
                 "goalsAwayTeam": null
-            }
+            },
+            "liveChanel": "VTV6 & VTV6 HD"
         },
         {
             "_links": {
@@ -777,12 +807,13 @@ module.exports = {
             "date": "2016-06-21T19:00:00Z",
             "status": "TIMED",
             "matchday": 3,
-            "homeTeamName": "Czech Republic",
-            "awayTeamName": "Turkey",
+            "homeTeamName": "Cộng Hòa Séc",
+            "awayTeamName": "Thổ Nhĩ Kỳ",
             "result": {
                 "goalsHomeTeam": null,
                 "goalsAwayTeam": null
-            }
+            },
+            "liveChanel": "VTV6 & VTV6 HD"
         },
         {
             "_links": {
@@ -803,11 +834,12 @@ module.exports = {
             "status": "TIMED",
             "matchday": 3,
             "homeTeamName": "Croatia",
-            "awayTeamName": "Spain",
+            "awayTeamName": "Tây Ban Nha",
             "result": {
                 "goalsHomeTeam": null,
                 "goalsAwayTeam": null
-            }
+            },
+            "liveChanel": "VTV3 & VTV3 HD"
         },
         {
             "_links": {
@@ -828,11 +860,12 @@ module.exports = {
             "status": "TIMED",
             "matchday": 3,
             "homeTeamName": "Iceland",
-            "awayTeamName": "Austria",
+            "awayTeamName": "Áo",
             "result": {
                 "goalsHomeTeam": null,
                 "goalsAwayTeam": null
-            }
+            },
+            "liveChanel": "VTV6 & VTV6 HD"
         },
         {
             "_links": {
@@ -853,11 +886,12 @@ module.exports = {
             "status": "TIMED",
             "matchday": 3,
             "homeTeamName": "Hungary",
-            "awayTeamName": "Portugal",
+            "awayTeamName": "Bồ Đào Nha",
             "result": {
                 "goalsHomeTeam": null,
                 "goalsAwayTeam": null
-            }
+            },
+            "liveChanel": "VTV3 & VTV3 HD"
         },
         {
             "_links": {
@@ -877,12 +911,13 @@ module.exports = {
             "date": "2016-06-22T19:00:00Z",
             "status": "TIMED",
             "matchday": 3,
-            "homeTeamName": "Sweden",
-            "awayTeamName": "Belgium",
+            "homeTeamName": "Thụy Điển",
+            "awayTeamName": "Bỉ",
             "result": {
                 "goalsHomeTeam": null,
                 "goalsAwayTeam": null
-            }
+            },
+            "liveChanel": "VTV3 & VTV3 HD"
         },
         {
             "_links": {
@@ -903,11 +938,12 @@ module.exports = {
             "status": "TIMED",
             "matchday": 3,
             "homeTeamName": "Italy",
-            "awayTeamName": "Republic of Ireland",
+            "awayTeamName": "Cộng Hòa Ireland",
             "result": {
                 "goalsHomeTeam": null,
                 "goalsAwayTeam": null
-            }
+            },
+            "liveChanel": "VTV6 & VTV6 HD"
         }
     ]
 }

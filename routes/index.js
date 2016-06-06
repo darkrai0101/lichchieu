@@ -6,7 +6,7 @@ var fixturesModel = require('./../models/fixturesBeautify');
 /* GET home page. */
 router.get('/', function(req, res, next) {	
 	for(var i=0; i < fixturesModel.count; i++){
-		fixturesModel.fixtures[i].date = dateUtil.toScheduleFormat(new Date(fixturesModel.fixtures[i].date));
+		fixturesModel.fixtures[i].dateStr = dateUtil.toScheduleFormat(new Date(fixturesModel.fixtures[i].date));
 	}
   	res.render('index', { title: 'Lịch thi đấu EURO 2016' , data : fixturesModel});
 });

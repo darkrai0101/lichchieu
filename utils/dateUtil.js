@@ -10,7 +10,8 @@ DateUtil.nowTimeZone = function(date){
 
 DateUtil.toScheduleFormat = function(date){
 	date.setTimezone("Asia/Ho_Chi_Minh");
-    return twoDigits(date.getHours())+ ":" + twoDigits(date.getMinutes()) + " " + date.getFullYear() + "-" + twoDigits(1 + date.getMonth()) + "-" + twoDigits(date.getDate());	
+    // return twoDigits(date.getHours())+ ":" + twoDigits(date.getMinutes()) + " " + date.getFullYear() + "-" + twoDigits(1 + date.getMonth()) + "-" + twoDigits(date.getDate());	
+    return twoDigits(date.getHours())+ ":" + twoDigits(date.getMinutes()) + " " + twoDigits(date.getDate()) + "/" + twoDigits(1 + date.getMonth());	
 }
 
 DateUtil.toMysqlFormat = function(date) {
