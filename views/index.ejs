@@ -116,10 +116,16 @@
                             <th><a href="#">Kênh Trực Tiếp</a></th>
                         </tr>                        
                         <% data.fixtures.forEach(function(match){ %> 
-                        <tr class="list-el">
+                        <% if(match['status'] === 'TIMED'){ %>
+                        <tr class="list-el match-status match-timed">
+                        <% }else if(match['status'] === 'PLAYING'){ %>
+                        <tr class="list-el match-status match-playing">
+                        <% }else{ %>
+                        <tr class="list-el match-status match-end">
+                        <% } %>
                             <td><i><%= match['dateStr'] %></i></td>
                             <td><a href="#"><%= match['homeTeamName'] %></a></td>
-                            <td><a href="#"><%= match['goalsHomeTeam'] ? match['goalsHomeTeam'] : '-' %> : <%= match['goalsAwayTeam'] ? match['goalsAwayTeam'] : '-'%></a></td>
+                            <td><a href="#"><%= match['result']['goalsHomeTeam'] ? match['result']['goalsHomeTeam'] : '-' %> : <%= match['result']['goalsAwayTeam'] ? match['result']['goalsAwayTeam'] : '-'%></a></td>
                             <td><a href="#"><%= match['awayTeamName'] %></a></td>
                             <td><a href="#"><%= match['liveChanel'] %></a></td>
                         </tr>

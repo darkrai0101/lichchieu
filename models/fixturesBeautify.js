@@ -25,13 +25,13 @@ module.exports = {
                 }
             },
             "date": "2016-06-10T19:00:00Z",
-            "status": "TIMED",
+            "status": "PLAYING",
             "matchday": 1,
             "homeTeamName": "Pháp",
             "awayTeamName": "Romania",
             "result": {
-                "goalsHomeTeam": null,
-                "goalsAwayTeam": null
+                "goalsHomeTeam": 1,
+                "goalsAwayTeam": 1
             },
             "liveChanel": " VTV3 & VTV3 HD"
         },

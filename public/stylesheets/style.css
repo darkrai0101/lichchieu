@@ -123,3 +123,15 @@ a {
   width: 100% !important;
 }
 
+.match-status{
+
+}
+
+.match-playing a{
+  color: #2FB36A;
+}
+
+
+.match-end a{
+  color: #444444;
+}
